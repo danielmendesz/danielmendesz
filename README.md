@@ -14,6 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="40" height="30"/>
 <img height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
+<img height="30" width="40" src="https://camo.githubusercontent.com/60128f24b3db6513987c90119eafe50df033f8f8b1015ccd1309cb8bc7287303/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f736173732f736173732d6f726967696e616c2e737667">
 </div>
 
 ### 📚 Estudando... 
