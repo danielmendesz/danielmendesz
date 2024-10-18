@@ -1,6 +1,6 @@
 ## Olá! Eu sou Daniel Mendes <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" />
 
-👋 Olá! Eu sou Daniel Mendes, estudante de programação Full Stack Python pela EBAC. Estou sempre em busca de novos desafios e aprimorando minhas habilidades para criar soluções práticas, intuitivas e centradas no usuário. Paixão por tecnologia e inovação me impulsiona a aprender e evoluir constantemente. Vamos colaborar e construir algo incrível juntos!
+👋 Olá! Eu sou Daniel Mendes, estudante de programação. Estou sempre em busca de novos desafios e aprimorando minhas habilidades para criar soluções práticas, intuitivas e centradas no usuário. Paixão por tecnologia e inovação me impulsiona a aprender e evoluir constantemente. Vamos colaborar e construir algo incrível juntos!
 
 - 💬 Contate-me no email: danielms.oficial@gmail.com
 
