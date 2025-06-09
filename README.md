@@ -10,12 +10,13 @@
 <img alt="mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" width="40" height="30"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dotnetcore/dotnetcore-original.svg" width="40" height="30"/>
 
 <img src="" width="40" height="30"/> 
 <img src="" width="40" height="30"/>
 <img height="30" width="40" src="">
-<img height="30" width="40" src="https://camo.githubusercontent.com/60128f24b3db6513987c90119eafe50df033f8f8b1015ccd1309cb8bc7287303/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f736173732f736173732d6f726967696e616c2e737667">
+<img height="30" width="40" src="">
+
 </div>
 
 ### 📚 Estudando... 
