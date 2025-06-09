@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" width="40" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dotnetcore/dotnetcore-original.svg" width="40" height="30"/>
 
-<img src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png" width="40" height="30"/> 
+<img src="https://img.favpng.com/7/18/20/microsoft-azure-sql-database-microsoft-sql-server-png-favpng-PZ9Zn81UwdWi1gsz9U0X07Bx1.jpg" width="40" height="30"/> 
 <img src="" width="40" height="30"/>
 <img height="30" width="40" src="">
 <img height="30" width="40" src="">
